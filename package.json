@@ -1,0 +1,15 @@
+{
+  "name": "3aqaryan-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron-packager .",
+    "start:dev" : "electron ." 
+  },
+  "license": "3aqaryan",
+  "author": "Yura Zakaryan",
+  "dependencies": {
+    "electron": "^22.0.0",
+    "electron-packager": "^17.1.1"
+  }
+}
